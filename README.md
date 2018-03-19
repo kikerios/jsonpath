@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/dchester/jsonpath.png?branch=master)](https://travis-ci.org/dchester/jsonpath)
 
-# jsonpath
+# jsonpath-wdf (With Default Values)
 
 Query JavaScript objects with JSONPath expressions.  Robust / safe JSONPath engine for Node.js.
 

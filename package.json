@@ -1,6 +1,6 @@
 {
-  "name": "jsonpath",
-  "description": "Query JavaScript objects with JSONPath expressions. Robust / safe JSONPath engine for Node.js.",
+  "name": "jsonpath-wdf",
+  "description": "Query JavaScript objects with JSONPath expressions. Robust / safe JSONPath engine for Node.js. (With Default Values)",
   "version": "1.0.0",
   "author": "david@fmail.co.uk",
   "scripts": {
@@ -11,6 +11,7 @@
   "dependencies": {
     "esprima": "1.2.2",
     "jison": "0.4.13",
+    "lodash": "^4.17.5",
     "static-eval": "2.0.0",
     "underscore": "1.7.0"
   },
